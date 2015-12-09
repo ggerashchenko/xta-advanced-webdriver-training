@@ -1,0 +1,7 @@
+package nl.xebia.util;
+
+/**
+ * Created by Erik Swets on 12/9/2015.
+ */
+public class LoggingWebdriverEventListener {
+}
